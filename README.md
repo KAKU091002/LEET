@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/KAKU091002/LEET/tree/master/3925-concatenate-array-with-reverse) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/KAKU091002/LEET/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/KAKU091002/LEET/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
