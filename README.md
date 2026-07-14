@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KAKU091002/LEET/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/KAKU091002/LEET/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/KAKU091002/LEET/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/KAKU091002/LEET/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/KAKU091002/LEET/tree/master/0560-subarray-sum-equals-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/KAKU091002/LEET/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/KAKU091002/LEET/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/KAKU091002/LEET/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
