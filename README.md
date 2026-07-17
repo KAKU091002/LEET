@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KAKU091002/LEET/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/KAKU091002/LEET/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KAKU091002/LEET/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/KAKU091002/LEET/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/KAKU091002/LEET/tree/master/0217-contains-duplicate) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KAKU091002/LEET/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KAKU091002/LEET/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KAKU091002/LEET/tree/master/0125-valid-palindrome) |
 ## String
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KAKU091002/LEET/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/KAKU091002/LEET/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
