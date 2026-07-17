@@ -7,8 +7,8 @@ public:
         while(l<r)
         {int W=r-l;
          int h=min(height[l],height[r]);
-         int a=W*h;
-         ans=max(ans,a);
+    
+         ans=max(ans,W*h);
          
          if(height[l]<height[r])
          {l++;}
