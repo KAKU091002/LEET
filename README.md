@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/KAKU091002/LEET/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/KAKU091002/LEET/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KAKU091002/LEET/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/KAKU091002/LEET/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/KAKU091002/LEET/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KAKU091002/LEET/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/KAKU091002/LEET/tree/master/0075-sort-colors) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/KAKU091002/LEET/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/KAKU091002/LEET/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KAKU091002/LEET/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
