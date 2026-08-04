@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KAKU091002/LEET/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/KAKU091002/LEET/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/KAKU091002/LEET/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/KAKU091002/LEET/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/KAKU091002/LEET/tree/master/0912-sort-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/KAKU091002/LEET/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/KAKU091002/LEET/tree/master/0912-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/KAKU091002/LEET/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
