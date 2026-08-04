@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/KAKU091002/LEET/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/KAKU091002/LEET/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KAKU091002/LEET/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/KAKU091002/LEET/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/KAKU091002/LEET/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/KAKU091002/LEET/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/KAKU091002/LEET/tree/master/0049-group-anagrams) |
@@ -160,5 +161,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KAKU091002/LEET/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/KAKU091002/LEET/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
