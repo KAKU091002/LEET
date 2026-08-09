@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/KAKU091002/LEET/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/KAKU091002/LEET/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KAKU091002/LEET/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/KAKU091002/LEET/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/KAKU091002/LEET/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KAKU091002/LEET/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/KAKU091002/LEET/tree/master/0486-predict-the-winner) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KAKU091002/LEET/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KAKU091002/LEET/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KAKU091002/LEET/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/KAKU091002/LEET/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/KAKU091002/LEET/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/KAKU091002/LEET/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/KAKU091002/LEET/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/KAKU091002/LEET/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
