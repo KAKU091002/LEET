@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/KAKU091002/LEET/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/KAKU091002/LEET/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KAKU091002/LEET/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/KAKU091002/LEET/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/KAKU091002/LEET/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KAKU091002/LEET/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/KAKU091002/LEET/tree/master/0387-first-unique-character-in-a-string) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/KAKU091002/LEET/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/KAKU091002/LEET/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KAKU091002/LEET/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/KAKU091002/LEET/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/KAKU091002/LEET/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KAKU091002/LEET/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KAKU091002/LEET/tree/master/0876-middle-of-the-linked-list) |
@@ -205,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/KAKU091002/LEET/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/KAKU091002/LEET/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/KAKU091002/LEET/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
