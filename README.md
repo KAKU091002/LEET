@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/KAKU091002/LEET/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/KAKU091002/LEET/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -212,12 +213,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KAKU091002/LEET/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KAKU091002/LEET/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KAKU091002/LEET/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/KAKU091002/LEET/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/KAKU091002/LEET/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/KAKU091002/LEET/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/KAKU091002/LEET/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/KAKU091002/LEET/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
 |  |
 | ------- |
