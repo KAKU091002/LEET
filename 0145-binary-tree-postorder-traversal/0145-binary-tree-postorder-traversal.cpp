@@ -10,9 +10,7 @@
  * };
  */
 class Solution {
-public:
-
-    void postorder(TreeNode* root,vector<int>&ans)
+     void postorder(TreeNode* root,vector<int>&ans)
     {
         if(root==NULL)
         {return;}
@@ -22,6 +20,9 @@ public:
         ans.push_back(root->val);
 
     }
+public:
+
+   
     
     vector<int> postorderTraversal(TreeNode* root) {
         vector<int>ans;
