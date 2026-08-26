@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/KAKU091002/LEET/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KAKU091002/LEET/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/KAKU091002/LEET/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/KAKU091002/LEET/tree/master/1046-last-stone-weight) |
 | [3925-concatenate-array-with-reverse](https://github.com/KAKU091002/LEET/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/KAKU091002/LEET/tree/master/0239-sliding-window-maximum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KAKU091002/LEET/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/KAKU091002/LEET/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/KAKU091002/LEET/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
