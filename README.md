@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/KAKU091002/LEET/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KAKU091002/LEET/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/KAKU091002/LEET/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/KAKU091002/LEET/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/KAKU091002/LEET/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KAKU091002/LEET/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/KAKU091002/LEET/tree/master/0239-sliding-window-maximum) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KAKU091002/LEET/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/KAKU091002/LEET/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/KAKU091002/LEET/tree/master/0547-number-of-provinces) |
 ## Backtracking
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/KAKU091002/LEET/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KAKU091002/LEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KAKU091002/LEET/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/KAKU091002/LEET/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KAKU091002/LEET/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KAKU091002/LEET/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KAKU091002/LEET/tree/master/0543-diameter-of-binary-tree) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/KAKU091002/LEET/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KAKU091002/LEET/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KAKU091002/LEET/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/KAKU091002/LEET/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KAKU091002/LEET/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/KAKU091002/LEET/tree/master/0547-number-of-provinces) |
 ## DP on Trees
@@ -362,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/KAKU091002/LEET/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KAKU091002/LEET/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
