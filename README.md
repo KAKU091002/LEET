@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KAKU091002/LEET/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KAKU091002/LEET/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/KAKU091002/LEET/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/KAKU091002/LEET/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/KAKU091002/LEET/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/KAKU091002/LEET/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/KAKU091002/LEET/tree/master/0560-subarray-sum-equals-k) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/KAKU091002/LEET/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/KAKU091002/LEET/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/KAKU091002/LEET/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/KAKU091002/LEET/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/KAKU091002/LEET/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/KAKU091002/LEET/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/KAKU091002/LEET/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KAKU091002/LEET/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/KAKU091002/LEET/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KAKU091002/LEET/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KAKU091002/LEET/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KAKU091002/LEET/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/KAKU091002/LEET/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/KAKU091002/LEET/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KAKU091002/LEET/tree/master/0875-koko-eating-bananas) |
 ## Linked List
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KAKU091002/LEET/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KAKU091002/LEET/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/KAKU091002/LEET/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -401,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/KAKU091002/LEET/tree/master/0207-course-schedule) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KAKU091002/LEET/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
