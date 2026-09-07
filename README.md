@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KAKU091002/LEET/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/KAKU091002/LEET/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/KAKU091002/LEET/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/KAKU091002/LEET/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/KAKU091002/LEET/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/KAKU091002/LEET/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/KAKU091002/LEET/tree/master/0287-find-the-duplicate-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/KAKU091002/LEET/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/KAKU091002/LEET/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/KAKU091002/LEET/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/KAKU091002/LEET/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/KAKU091002/LEET/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KAKU091002/LEET/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/KAKU091002/LEET/tree/master/0387-first-unique-character-in-a-string) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KAKU091002/LEET/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/KAKU091002/LEET/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/KAKU091002/LEET/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/KAKU091002/LEET/tree/master/0567-permutation-in-string) |
 ## Greedy
