@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KAKU091002/LEET/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KAKU091002/LEET/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/KAKU091002/LEET/tree/master/0486-predict-the-winner) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KAKU091002/LEET/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Sliding Window
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/KAKU091002/LEET/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/KAKU091002/LEET/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KAKU091002/LEET/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KAKU091002/LEET/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/KAKU091002/LEET/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/KAKU091002/LEET/tree/master/1046-last-stone-weight) |
 ## Merge Sort
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/KAKU091002/LEET/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/KAKU091002/LEET/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KAKU091002/LEET/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KAKU091002/LEET/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/KAKU091002/LEET/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/KAKU091002/LEET/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/KAKU091002/LEET/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KAKU091002/LEET/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KAKU091002/LEET/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/KAKU091002/LEET/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/KAKU091002/LEET/tree/master/0994-rotting-oranges) |
 ## DP on Trees
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/KAKU091002/LEET/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KAKU091002/LEET/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/KAKU091002/LEET/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KAKU091002/LEET/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/KAKU091002/LEET/tree/master/0797-all-paths-from-source-to-target) |
 ## Matrix
 |  |
@@ -418,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/KAKU091002/LEET/tree/master/0287-find-the-duplicate-number) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KAKU091002/LEET/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
