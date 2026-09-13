@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KAKU091002/LEET/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/KAKU091002/LEET/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/KAKU091002/LEET/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/KAKU091002/LEET/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/KAKU091002/LEET/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KAKU091002/LEET/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/KAKU091002/LEET/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/KAKU091002/LEET/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/KAKU091002/LEET/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KAKU091002/LEET/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KAKU091002/LEET/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/KAKU091002/LEET/tree/master/0486-predict-the-winner) |
+| [0647-palindromic-substrings](https://github.com/KAKU091002/LEET/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KAKU091002/LEET/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Sliding Window
 |  |
