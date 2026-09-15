@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KAKU091002/LEET/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/KAKU091002/LEET/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KAKU091002/LEET/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/KAKU091002/LEET/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/KAKU091002/LEET/tree/master/0486-predict-the-winner) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KAKU091002/LEET/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KAKU091002/LEET/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KAKU091002/LEET/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/KAKU091002/LEET/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KAKU091002/LEET/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KAKU091002/LEET/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/KAKU091002/LEET/tree/master/0287-find-the-duplicate-number) |
@@ -437,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KAKU091002/LEET/tree/master/0787-cheapest-flights-within-k-stops) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/KAKU091002/LEET/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
