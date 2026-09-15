@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/KAKU091002/LEET/tree/master/0258-add-digits) |
 | [3925-concatenate-array-with-reverse](https://github.com/KAKU091002/LEET/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/KAKU091002/LEET/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KAKU091002/LEET/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/KAKU091002/LEET/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/KAKU091002/LEET/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/KAKU091002/LEET/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
@@ -444,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/KAKU091002/LEET/tree/master/0069-sqrtx) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/KAKU091002/LEET/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
