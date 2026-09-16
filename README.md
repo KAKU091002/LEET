@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/KAKU091002/LEET/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/KAKU091002/LEET/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/KAKU091002/LEET/tree/master/0695-max-area-of-island) |
+| [0697-degree-of-an-array](https://github.com/KAKU091002/LEET/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/KAKU091002/LEET/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/KAKU091002/LEET/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/KAKU091002/LEET/tree/master/0875-koko-eating-bananas) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/KAKU091002/LEET/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/KAKU091002/LEET/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/KAKU091002/LEET/tree/master/0567-permutation-in-string) |
+| [0697-degree-of-an-array](https://github.com/KAKU091002/LEET/tree/master/0697-degree-of-an-array) |
 ## Simulation
 |  |
 | ------- |
