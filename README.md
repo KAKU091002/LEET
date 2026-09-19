@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/KAKU091002/LEET/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/KAKU091002/LEET/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/KAKU091002/LEET/tree/master/1046-last-stone-weight) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KAKU091002/LEET/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3925-concatenate-array-with-reverse](https://github.com/KAKU091002/LEET/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KAKU091002/LEET/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/KAKU091002/LEET/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KAKU091002/LEET/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KAKU091002/LEET/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Linked List
 |  |
 | ------- |
