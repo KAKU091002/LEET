@@ -3,23 +3,26 @@ public:
 
     bool f(const vector<int>&bloomDay,int m,int k,int timelimit)
     {
-        int bouquets = 0;
-        int flowers = 0;
-
-        for (int day : bloomDay) {
-            if (day <= timelimit) {
-                flowers++;
-                if (flowers == k) {
-                    bouquets++;
-                    flowers = 0;
+     int cnt=0;
+     for(int day:bloomDay)
+     {
+        if(day<=timelimit) {
+            cnt++;
+            if(cnt==k){
+                m--;
+                 if (m==0){
+                    return true;
                 }
-            } else {
-                flowers = 0;
-            }
-        }
 
-        return bouquets >= m;
+
+                cnt=0;
+            }}
+
+            else{cnt=0;}
     }
+        return false;
+    }
+    
 
 
     int minDays(vector<int>& bloomDay, int m, int k) {
