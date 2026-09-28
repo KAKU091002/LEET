@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KAKU091002/LEET/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/KAKU091002/LEET/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KAKU091002/LEET/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KAKU091002/LEET/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/KAKU091002/LEET/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/KAKU091002/LEET/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KAKU091002/LEET/tree/master/0151-reverse-words-in-a-string) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KAKU091002/LEET/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KAKU091002/LEET/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KAKU091002/LEET/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/KAKU091002/LEET/tree/master/0486-predict-the-winner) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KAKU091002/LEET/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/KAKU091002/LEET/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/KAKU091002/LEET/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/KAKU091002/LEET/tree/master/0078-subsets) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KAKU091002/LEET/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KAKU091002/LEET/tree/master/0022-generate-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
