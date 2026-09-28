@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KAKU091002/LEET/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/KAKU091002/LEET/tree/master/0258-add-digits) |
 | [3925-concatenate-array-with-reverse](https://github.com/KAKU091002/LEET/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KAKU091002/LEET/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KAKU091002/LEET/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/KAKU091002/LEET/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/KAKU091002/LEET/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/KAKU091002/LEET/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KAKU091002/LEET/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/KAKU091002/LEET/tree/master/0242-valid-anagram) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/KAKU091002/LEET/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/KAKU091002/LEET/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/KAKU091002/LEET/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KAKU091002/LEET/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/KAKU091002/LEET/tree/master/0136-single-number) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KAKU091002/LEET/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/KAKU091002/LEET/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/KAKU091002/LEET/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/KAKU091002/LEET/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KAKU091002/LEET/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KAKU091002/LEET/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/KAKU091002/LEET/tree/master/0189-rotate-array) |
