@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KAKU091002/LEET/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/KAKU091002/LEET/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/KAKU091002/LEET/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/KAKU091002/LEET/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/KAKU091002/LEET/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/KAKU091002/LEET/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/KAKU091002/LEET/tree/master/0078-subsets) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KAKU091002/LEET/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/KAKU091002/LEET/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/KAKU091002/LEET/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/KAKU091002/LEET/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/KAKU091002/LEET/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KAKU091002/LEET/tree/master/0090-subsets-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/KAKU091002/LEET/tree/master/0797-all-paths-from-source-to-target) |
@@ -490,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/KAKU091002/LEET/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/KAKU091002/LEET/tree/master/0509-fibonacci-number) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/KAKU091002/LEET/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
