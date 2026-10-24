@@ -1,57 +1,67 @@
+#include <iostream>
 #include <vector>
 #include <string>
 
 using namespace std;
 
 class Solution {
-private:
-    bool isSafe(int row, int col, int n, const vector<string>& board) {
-        // Check this column upwards
-        for (int i = 0; i < row; i++) {
-            if (board[i][col] == 'Q') {
+public:
+
+    bool isvalid(int n, const vector<string>& board, int i, int j) {
+
+        // 1. Check vertically upwards
+        for (int row = i - 1; row >= 0; row--) {
+            if (board[row][j] == 'Q') {
                 return false;
             }
         }
-        
-        // Check upper-left diagonal
-        for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
-            if (board[i][j] == 'Q') {
+       
+        // 2. Check upper-right diagonal
+        for (int row = i - 1, step = 1; row >= 0 && j + step < n; row--, step++) {
+            if (board[row][j + step] == 'Q') {
                 return false;
             }
         }
-        
-        // Check upper-right diagonal
-        for (int i = row - 1, j = col + 1; i >= 0 && j < n; i--, j++) {
-            if (board[i][j] == 'Q') {
+
+        // 3. Check upper-left diagonal
+        for (int row = i - 1, step = 1; row >= 0 && j - step >= 0; row--, step++) {
+            if (board[row][j - step] == 'Q') {
                 return false;
             }
         }
-        
-        return true;
+
+        return true; // No conflicts found, position is safe
     }
 
-    void solve(int row, int n, vector<string>& board, vector<vector<string>>& ans) {
-        // Base case: If all queens are placed successfully
-        if (row == n) {
-            ans.push_back(board);
+
+    void f(int n, vector<string>& board, vector<vector<string>>& allBoards, int i) {
+        // Base case: If we have placed queens in all rows (0 to n-1)
+        if (i == n) {
+            allBoards.push_back(board);
             return;
         }
-        
-        // Try placing a queen in each column of the current row
-        for (int col = 0; col < n; col++) {
-            if (isSafe(row, col, n, board)) {
-                board[row][col] = 'Q';       // Place queen
-                solve(row + 1, n, board, ans); // Recurse to next row
-                board[row][col] = '.';       // Backtrack
+
+        // Recursive case: Try placing a queen in each column of row 'i'
+        for (int j = 0; j < n; j++) {
+            if (isvalid(n, board, i, j)) {
+                board[i][j] = 'Q';          // Place queen
+                f(n, board, allBoards, i + 1); // Recurse for the next row
+                board[i][j] = '.';          // Backtrack
             }
         }
     }
 
-public:
     vector<vector<string>> solveNQueens(int n) {
-        vector<vector<string>> ans;
-        vector<string> board(n, string(n, '.')); // Initialize n x n board with '.'
-        solve(0, n, board, ans);
-        return ans;
+        vector<string> board;
+        for (int i = 0; i < n; i++) {
+            string row(n, '.');
+            board.push_back(row);
+        }
+
+        vector<vector<string>> allBoards;
+
+        f(n, board, allBoards, 0);
+
+        return allBoards;
     }
 };
